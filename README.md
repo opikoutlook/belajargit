@@ -1,3 +1,4 @@
 # hello-world
 ini halaman pertama pakai git untuk kolaborasi
-This repository is built step by step in the tutorial.
+repository ini ditulis berdasarkan tutorial 
+pakai 2 akun untuk merasakan kolaborasi
